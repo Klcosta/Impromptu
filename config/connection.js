@@ -16,7 +16,7 @@ if (process.env.JAWSDB_URL){
       host: "localhost",
       port: 3301,
       user: "root",
-      password: "Monday15!",
+      password: "tape88white",
       database: "impromptu"
 });
 };
